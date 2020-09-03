@@ -1,0 +1,135 @@
+.navbar {
+    background-color: rgb(116, 44, 66);
+}
+
+
+.carousel {
+    margin-bottom: 0px;
+}
+
+.carousel-item {
+    height: 680px;
+    margin-bottom: 0px;
+}
+
+
+.carousel-item img {
+    margin-top: -80px;
+    background-size: cover;
+}
+.carousel-caption .display-4 {
+    margin-top: -500px;
+}
+
+
+.carousel-caption hr {
+    border-color:red;
+    width: 90px;
+}
+
+.carousel-caption .btn {
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 13px;
+}
+
+.carousel-caption .display-4 {
+    color: rgb(178, 116, 119);
+    font-weight: bold;
+}
+.carousel-caption .lead {
+   
+    text-shadow: 1px 1px 3px rgb(128, 0, 34);
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.carousel-inner .btn {
+    background-color: rgb(194, 130, 133);
+}
+
+body {
+    background-image: url(watercolor.png);
+    margin-bottom: 0px;
+}
+
+body #main {
+    background-color: rgb(219, 190, 187);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 0px;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+    height: 700px;
+    padding: 20px;
+    background-color: rgb(194, 130, 133);
+}
+
+.jumbotron img {
+    height: 250px;
+    border-radius: 40px;
+    border: 2px solid black;
+}
+
+.jumbotron .display-4 {
+    font-weight: bold;
+    color:  rgb(116, 44, 66);
+}
+
+.jumbotron .aa {
+    text-align: center;
+}
+
+.jumbotron .aa p {
+    font-size: 20px;
+}
+
+.jumbotron #logo {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+.jumbotron .data .univ{
+    font-size: 25px;
+}
+
+.jumbotron #medsos {
+    padding: 20px;
+    text-align: center;
+}
+
+.jumbotron #contact {
+    text-align: right;
+}
+
+
+.jumbotron #contact .person {
+    margin-right: 120px;
+}
+
+.jumbotron #contact .number {
+    margin-right: 90px;
+}
+
+.jumbotron #contact .email {
+    margin-right: 9px;
+}
+
+.footer {
+    height: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.footer p {
+    margin-bottom: 0px;
+}
